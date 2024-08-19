@@ -10,5 +10,4 @@ Me chamo BolinhaBalls
 
 00001124792545sp@al.educacao.sp.gov.br
 
-![]()
-https://media1.tenor.com/m/5lLcKZgmIhgAAAAC/american-psycho-patrick-bateman.gif
+![](https://media1.tenor.com/m/5lLcKZgmIhgAAAAC/american-psycho-patrick-bateman.gif)
